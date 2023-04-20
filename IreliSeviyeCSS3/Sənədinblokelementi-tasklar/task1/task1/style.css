@@ -2,10 +2,6 @@
 Başlığın üstündəki mətnin şrift ölçüsünü 11px təyin edin
 Başlığın şrift ölçüsünü 30px təyin edin.
 Əsas mətnin şrift ölçüsünü 14px təyin edin.*/
-*{
-    margin:0 auto;
-    box-sizing:border-box;
-}
 .box1{
 width:400px;
 background-color:grey;
