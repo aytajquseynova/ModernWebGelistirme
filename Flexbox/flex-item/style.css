@@ -33,3 +33,6 @@
     order:2;
     background-color:rgb(107, 116, 107);
 }
+/*flex`e ozellikler vererek box`larin olcusunu nisbetle deyismek mumkundur. Bununla yanasi flex-grow ozelliyi de eyni vezifeni dasiyir.
+order ozelliyi box`larin yerini deyismeye komek edir
+align-self ozelliyi mehz bir box`un istiqametini deyisir*/
