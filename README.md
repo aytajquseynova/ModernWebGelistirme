@@ -47,3 +47,7 @@
 - Pseudo class
 - Pseudo element
 - Nth child selector
+- Table styling
+- Overflow
+- Position
+- Float
