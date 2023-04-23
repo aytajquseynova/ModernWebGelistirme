@@ -1,0 +1,39 @@
+body{
+    font-size:11px;
+    font-family: Lato, sans-serif;
+    padding:10px;
+}
+span{
+    font-weight:bold;
+}
+.bar{
+    height: 50px;
+    margin: 0 0 5px;
+    padding: 18px;
+    color: #fff;
+    box-sizing: border-box;
+}
+.iphonexr{
+    width: 463px;
+    background-color: red;
+}
+.iphone11{
+    width: 373px;
+    background-color: lightblue;
+    color: #000;
+}
+.galaxya10{
+    width: 303px;
+    background-color: bisque;
+    color: #000;
+}
+.galaxya50{
+    width: 242px;
+    background-color: cyan;
+    color: #000;
+}
+.galaxya20{
+    width: 192px;
+    background-color: black;
+    color:#bfbfbf;
+}
