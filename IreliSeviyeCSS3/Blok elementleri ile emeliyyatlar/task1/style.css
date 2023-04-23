@@ -1,7 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
+
 body{
     font-size:11px;
     font-family: Lato, sans-serif;
     padding:10px;
+    margin:8px;
+   /*font-weight:700;*/ 
+    position:Relative;
+}
+h2{
+    font-size:2em;
 }
 span{
     font-weight:bold;

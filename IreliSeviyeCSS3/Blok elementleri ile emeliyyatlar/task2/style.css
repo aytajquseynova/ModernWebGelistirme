@@ -15,9 +15,11 @@ Bütün qoşa teqlər bağlıdır.
 «Buy» və «Add to cart» mətnləri üzərində kursor olan zamanı olacaq dəyişikliyi tərtib edin
 «Buy» və «Add to cart» mətni üzərinə kursor gəldiyi zaman mətn altxətli olur.
 */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
+
 body{
     font-family: 'Lato', sans-serif;
-    padding: 10px;
+    padding: 18px;
     margin:0;
 }
 .container{
@@ -42,6 +44,7 @@ h2{
 .price{
     color:#B12704;
     margin-bottom:20px;
+    margin-top: 0;
 }
 ul{
     list-style-type: none;
