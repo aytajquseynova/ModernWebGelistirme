@@ -1,5 +1,6 @@
 # Modern Web Geliştirme kursu
 ## Programlamaya giriş
+#### Başlama tarixi 10 aprel
 - Yol haritası
 - Yazılım nedir?
 - Programlama nedir?
@@ -15,6 +16,7 @@
 - While döngüsüyle çalışmak
 - For döngüsüyle çalışmak
 - İç içe döngülerle çalışmak
+#### Bitmə tarixi 12 aprel
 ## HTML5
 - Layout
 - Meta etiketleri ve yorum satırları
