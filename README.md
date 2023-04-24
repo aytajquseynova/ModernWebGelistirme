@@ -1,5 +1,6 @@
 # Modern Web Geliştirme kursu
 ## Programlamaya giriş
+#### Başlama tarixi 10 aprel
 - Yol haritası
 - Yazılım nedir?
 - Programlama nedir?
@@ -15,7 +16,9 @@
 - While döngüsüyle çalışmak
 - For döngüsüyle çalışmak
 - İç içe döngülerle çalışmak
+#### Bitmə tarixi 12 aprel
 ## HTML5
+#### Başlama tarixi 12 aprel
 - Layout
 - Meta etiketleri ve yorum satırları
 - Başlık ve paraqraf etiketleri
@@ -27,21 +30,27 @@
 - Lists
 - Video etiketi
 - Audio etiketi
+#### Bitmə tarixi 13 aprel
 ## İleri seviye HTML5
+#### Başlama tarixi 14 aprel
 - Block ve inline elementler
 - Div ve span etiketleri
 - İd ve class nedir?
 - Bookmark özelliği
 - Form ve input elementleri
 - Semantic elementler
+#### Bitmə tarixi 16 aprel
 ## Temel seviye CSS3
+#### Başlama tarixi 16 aprel
 - Width, height ve max-width
 - Display, block, inline ve inline-block
 - Box model ve web developer tools
 - Margin özellikleri
 - Padding ve box-sizing özelliği
 - Text özellikleri
+#### Bitmə tarixi 17 aprel
 ## İleri seviye CSS3
+#### Başlama tarixi 19 aprel
 - Ölçü birimleri, font-family ve fontlar
 - Icons
 - Pseudo class
@@ -51,7 +60,10 @@
 - Overflow
 - Position
 - Float
+#### Bitmə tarixi 22 aprel
 ## Flexbox
+#### Başlama tarixi 22 aprel
 - Flexbox nedir?
 - Container özellikleri
 - Flex item özellikleri
+#### Bitmə tarixi 23 aprel
