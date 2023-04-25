@@ -67,3 +67,8 @@
 - Container özellikleri
 - Flex item özellikleri
 #### Bitmə tarixi 23 aprel
+#### Başlama tarixi 24 aprel
+## Responsiv Tasarım
+- Responsive Tasarım ve Media Queries
+- Em,Rem , Vw, Vh, % Birimleri
+#### Bitmə tarixi 24 aprel
