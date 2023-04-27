@@ -33,6 +33,7 @@ a{
     border-radius:0.8rem;
 }
 /*Navbar ends*/
+/*Home section starts*/
 #home{
     display:Flex;
     flex-direction:Column;
@@ -52,4 +53,65 @@ a{
 #home p{
     font-style:italic;
     color:slategrey;
+}
+/*Home section ends*/
+/*Study section starts*/
+#study img{
+    width:300px;
+    height:250px;
+    border-radius:10px;
+
+}
+.study{
+    display:Flex;
+    margin:0.2rem;
+
+}
+.study-img{
+    position:relative;
+}
+#study span{
+    position:absolute;
+    color:white;
+    background-color:seagreen;
+    border-radius:2px;
+    z-index:1;
+    font-weight:300;
+    top:5px;
+    right:5px;
+}
+.study-detail{
+    display:flex;
+    flex-direction:column;
+    margin:0.5rem;
+    padding:0.5rem;
+}
+.education-center{
+    font-weight:600;
+}
+.education-center-year{
+    opacity:0.5;
+}
+.education-center-info{
+    font-style:italic;
+}
+#contact{
+    padding:1rem;
+}
+#contact h3{
+    text-align:Center;
+}
+.contact-footer{
+    color:antiquewhite;
+}
+.contact-form{
+    display:Flex;
+    flex-direction:column;
+    width:100%;
+}
+.contact-form-details{
+    display:block;
+    padding:1rem;
+    margin:0.2rem;
+    resize:none;
 }

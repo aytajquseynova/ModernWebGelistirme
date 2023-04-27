@@ -77,3 +77,6 @@
 - Navbar+ Responsiv Navbar
 - Tanıtım bölümünün kodlanması
 - Eğitimler bölümü
+- Kurslar bölümü
+- İletişim ve sosyal medya bölümü
+#### Bitmə tarixi  aprel

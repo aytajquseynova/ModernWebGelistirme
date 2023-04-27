@@ -14,3 +14,19 @@
     margin:0.15rem 0.1rem;
 }
 /*Home section ends*/
+/*Study section starts*/
+.study{
+    display:Flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    width:100%;
+}
+.study{
+    font-size:1rem;
+}
+.study-detail{
+    width:100%;
+    text-align:center;
+}
+/*Study section ends*/
