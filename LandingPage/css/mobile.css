@@ -1,0 +1,16 @@
+/*navbar starts*/
+#navbar{
+    flex-direction:column;
+}
+#navbar h1{
+    margin-bottom:0.8rem;
+}
+/*Navbar ends*/
+/*Home section starts*/
+#home p, h2{
+    font-size:1rem;
+}
+#home h2{
+    margin:0.15rem 0.1rem;
+}
+/*Home section ends*/

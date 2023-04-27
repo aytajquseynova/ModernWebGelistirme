@@ -72,3 +72,8 @@
 - Responsive Tasarım ve Media Queries
 - Em,Rem , Vw, Vh, % Birimleri
 #### Bitmə tarixi 24 aprel
+#### Başlama tarixi 26 aprel
+## Landing Page Projesi ve Responsiv Tasarım
+- Navbar+ Responsiv Navbar
+- Tanıtım bölümünün kodlanması
+- Eğitimler bölümü
