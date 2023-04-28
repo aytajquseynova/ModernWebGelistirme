@@ -79,4 +79,11 @@
 - Eğitimler bölümü
 - Kurslar bölümü
 - İletişim ve sosyal medya bölümü
-#### Bitmə tarixi  aprel
+#### Bitmə tarixi 27 aprel
+#### Başlama tarixi 28 aprel
+## Javascript temelleri- Part1 - Veri tipleri, Objeler ve Operatörler
+- Javascript`e giriş
+- Web geliştirici aracı ve Konsol
+- Veri tipleri- Number, string, boolean, null, undefined
+- Değişken tanımlama ve ES6 standartı (ver, let, const farkları)
+- Veri tiplerini birbirine dönüştürme
