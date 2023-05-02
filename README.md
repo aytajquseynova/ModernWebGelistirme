@@ -87,3 +87,10 @@
 - Veri tipleri- Number, string, boolean, null, undefined
 - Değişken tanımlama ve ES6 standartı (ver, let, const farkları)
 - Veri tiplerini birbirine dönüştürme
+- Operatörler ve Math Objesinin Metodları
+- Stringlerin Metodları
+- Template Literal - String Oluşturmakta Yeni Standart
+- Arraylerin Özellikleri
+- Javascriptte Obje Kavramı ve Obje Oluşturma
+- Javascript Zaman Objesi ve Metodları
+#### Bitmə tarixi 01 may
