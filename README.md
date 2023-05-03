@@ -94,3 +94,8 @@
 - Javascriptte Obje Kavramı ve Obje Oluşturma
 - Javascript Zaman Objesi ve Metodları
 #### Bitmə tarixi 01 may
+#### Başlama tarixi 02 may
+## Javascript Temelleri- Part 2- Koşullar, Döngüler, Fonksiyonlar
+- Karşılaştırma Operatörler, Koşullar ve Ternary Operatör
+- Switch Case Yapıları
+-  Fonksiyonlar, IIFE ve Anonim Fonksiyonlar
