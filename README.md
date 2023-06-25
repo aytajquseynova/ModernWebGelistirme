@@ -99,3 +99,16 @@
 - Karşılaştırma Operatörler, Koşullar ve Ternary Operatör
 - Switch Case Yapıları
 -  Fonksiyonlar, IIFE ve Anonim Fonksiyonlar
+-  Döngüler - While, Do While , For Döngüleri
+-  Window(Pencere) Objesine Genel Bakış
+-  Kapsam (Scope) Kavramı - Function Scope, Global Scope,Block Scope
+  #### Bitmə tarixi 13 iyun
+  #### Başlama tarixi 14 iyun
+## Javascript ile DOM Manipulyasyonu
+-  Dökümanı tanıyalım
+-  Document Object Model nedir?
+-  Document objesi - Part 1
+-  Document objesi - Part 2
+-  Elementleri seçme
+  
+  
