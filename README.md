@@ -110,5 +110,6 @@
 -  Document objesi - Part 1
 -  Document objesi - Part 2
 -  Elementleri seçme
+-  Elementleri seçmek ve Style özelliklerini değiştirmek
   
   
