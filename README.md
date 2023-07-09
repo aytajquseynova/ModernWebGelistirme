@@ -112,5 +112,7 @@
 -  Elementleri seçme
 -  Elementleri seçmek ve Style özelliklerini değiştirmek
 -  Dom elementleri üzerinde gezme
+-  Dinamik element oluşturma
+-  Dinamik element silme
   
   
