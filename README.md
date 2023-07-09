@@ -114,5 +114,6 @@
 -  Dom elementleri üzerinde gezme
 -  Dinamik element oluşturma
 -  Dinamik element silme
+-  Dinamik elementi değiştirme
   
   
