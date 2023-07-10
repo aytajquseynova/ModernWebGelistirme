@@ -115,5 +115,6 @@
 -  Dinamik element oluşturma
 -  Dinamik element silme
 -  Dinamik elementi değiştirme
+-  Dinamik Attributte Değiştirme,Silme,Ekleme
   
   
