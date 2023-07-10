@@ -9,6 +9,6 @@ newElement.textContent = 'Dinamik Elementi deyisdirmek';
 
 // evvelce kohne element secilir
 
-const oldElement = document.querySelector('#dinamikElement');
+const oldElement = document.querySelector('h1');
 cardBody.replaceChild(newElement, oldElement)
 console.log(newElement);
