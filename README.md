@@ -116,5 +116,10 @@
 -  Dinamik element silme
 -  Dinamik elementi değiştirme
 -  Dinamik Attributte Değiştirme,Silme,Ekleme
+  #### Bitmə tarixi 10 iyul
+  #### Başlama tarixi 12 iyul
+  ## Javascript - DOM Eventleri
+-  Event Listeners ve Event Objesi Kullanma
+  
   
   
