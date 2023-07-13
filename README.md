@@ -122,5 +122,5 @@
 -  Event Listeners ve Event Objesi Kullanma
 -   Keyboard Eventleri - KeyUp, KeyPress, KeyDown
 -   Mouse Eventleri
-  
+-   Input Eventleri
   
