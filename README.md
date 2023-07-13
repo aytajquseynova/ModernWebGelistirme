@@ -123,4 +123,7 @@
 -   Keyboard Eventleri - KeyUp, KeyPress, KeyDown
 -   Mouse Eventleri
 -   Input Eventleri
+-   Event capturing ve Bubbling olayları
+     #### Bitmə tarixi 13 iyul
+  
   
